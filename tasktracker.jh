@@ -1,0 +1,11 @@
+
+entity Task {
+	Text String,
+    Day LocalDate,
+    Reminder Boolean
+}
+
+// Set service options to all except few
+
+// Set an angular suffix
+// angularSuffix * with mySuffix
